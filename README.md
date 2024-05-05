@@ -8,7 +8,7 @@ In this repo, we'll use the OpenWeatherMap API to fetch current weather data for
 
 ## Technologies Used
 
-- HTML!
+- HTML
 - CSS
 - JavaScript
 
