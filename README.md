@@ -1,4 +1,4 @@
-# Weather App 
+# Weather App (Mausam)
 
 Welcome to the Weather App repo! In this code, we have made through creating a Weather App for your website using HTML, CSS, and JavaScript.
 
